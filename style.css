@@ -60,10 +60,19 @@ h1{
 .single-project{
     float: left;
     width: 33.33%;
-    padding: 10px 30px;
+    padding: 5px 20px;
     box-sizing: border-box;
 }
 .single-project .spm{
     width: 100%;
     height: auto;
+}
+.ONE{
+    text-align: center;
+    background-color: chocolate;
+    color: white;
+    text-decoration: none;
+
+}.inquiry{
+    box-sizing:border-box ;
 }
