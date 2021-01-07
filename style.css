@@ -52,12 +52,18 @@ h1{
 .here{
     color: purple;
     text-align: center;
-    padding-left: 70%;
     
 }
-.last{
-    width: 50%;
-    height: 700px;
-    
-    
+.clearfix{
+    clear:both;
+}
+.single-project{
+    float: left;
+    width: 33.33%;
+    padding: 10px 30px;
+    box-sizing: border-box;
+}
+.single-project .spm{
+    width: 100%;
+    height: auto;
 }
